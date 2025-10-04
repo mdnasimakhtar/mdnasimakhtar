@@ -1,1 +1,2 @@
-[<img width="108" height="108" alt="professional-scrum-master-iii-psm-iii" src="https://github.com/user-attachments/assets/c8b6015f-61b3-402f-b7e3-b173b53229e3" />](https://www.credly.com/badges/8f121464-afe5-4bd3-a9ca-0efbe271a782/public_url)
+[<img width="120" height="120" alt="sas-certified-specialist-modelops" src="https://github.com/user-attachments/assets/f121b473-e545-4f59-89b5-dda83e8ec6aa" />](https://www.credly.com/badges/e9ae4e02-6440-4a6b-a89b-35939768cd1a/public_url)
+[SAS Certified ModelOps Specialist](https://www.credly.com/badges/e9ae4e02-6440-4a6b-a89b-35939768cd1a/public_url)
