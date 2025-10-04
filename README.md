@@ -1,1 +1,1 @@
-<img width="200" height="200" alt="new_certification_badge_image" src="[https://github.com/user-attachments/assets/860349e6-b6d5-46eb-a09d-89791fdf8449](https://www.credly.com/badges/e9ae4e02-6440-4a6b-a89b-35939768cd1a)" />
+<img width="96" height="96" alt="sas-certified-associate-programming-fundamentals-using-sas-9-4" src="https://github.com/user-attachments/assets/e78e32b5-caa1-4295-8e8c-9a2035ca117e" />
