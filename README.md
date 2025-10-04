@@ -1,1 +1,1 @@
-[<img width="96" height="96" alt="sas-certified-associate-programming-fundamentals-using-sas-9-4" src="https://github.com/user-attachments/assets/4018c925-ba6c-4b12-95e1-bd458baaae69" />](https://www.credly.com/badges/04353317-ebb6-4a4d-8d8c-2a77fe7ba7b1)
+[<img width="138" height="138" alt="professional-scrum-master-iii-psm-iii" src="https://github.com/user-attachments/assets/8c9a2413-809d-4f24-8cd2-07073f651413" />](https://www.credly.com/badges/8f121464-afe5-4bd3-a9ca-0efbe271a782/public_url)
