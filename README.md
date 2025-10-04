@@ -1,1 +1,1 @@
-[<img width="115" height="115" alt="image" src="https://github.com/user-attachments/assets/7217ef3a-575c-4708-a6d7-6ddc47bc01db" />](https://www.credly.com/badges/d4f6e89d-b8e4-4383-a309-beca532b45b2)
+<img width="600" height="600" alt="new_certification_badge_image" src="[https://github.com/user-attachments/assets/2232f5ba-dad9-4db0-b125-e58c9961bc69](https://www.credly.com/badges/e9ae4e02-6440-4a6b-a89b-35939768cd1a)" />
