@@ -1,1 +1,1 @@
-<img width="96" height="96" alt="sas-certified-associate-programming-fundamentals-using-sas-9-4" src="https://https://www.credly.com/earner/earned/badge/04353317-ebb6-4a4d-8d8c-2a77fe7ba7b1" />
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="04353317-ebb6-4a4d-8d8c-2a77fe7ba7b1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
