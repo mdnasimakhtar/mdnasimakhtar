@@ -1,1 +1,1 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="04353317-ebb6-4a4d-8d8c-2a77fe7ba7b1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[Click](https://www.credly.com/badges/04353317-ebb6-4a4d-8d8c-2a77fe7ba7b1/public_url)
