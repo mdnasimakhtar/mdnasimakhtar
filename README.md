@@ -1,1 +1,1 @@
-[<img width="138" height="138" alt="professional-scrum-master-iii-psm-iii" src="https://github.com/user-attachments/assets/8c9a2413-809d-4f24-8cd2-07073f651413" />](https://www.credly.com/badges/8f121464-afe5-4bd3-a9ca-0efbe271a782/public_url)
+[<img width="132" height="132" alt="professional-scrum-master-iii-psm-iii" src="https://github.com/user-attachments/assets/7e7f5204-305e-4195-9364-6ce2e55ba38e" />](https://www.credly.com/earner/earned/badge/8f121464-afe5-4bd3-a9ca-0efbe271a782)
