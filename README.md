@@ -1,1 +1,1 @@
-[<img width="220" height="220" alt="jira" src="https://github.com/user-attachments/assets/e8e28652-58ed-4217-af07-3321e3061dc7" />](https://cp.certmetrics.com/atlassian/en/public/badge/c?id=6132b9e36e5e1e0071f4416f&ccat=58&date=2024-2-17)
+[<img width="200" height="200" alt="jira" src="https://github.com/user-attachments/assets/e8e28652-58ed-4217-af07-3321e3061dc7" />](https://cp.certmetrics.com/atlassian/en/public/badge/c?id=6132b9e36e5e1e0071f4416f&ccat=58&date=2024-2-17)
