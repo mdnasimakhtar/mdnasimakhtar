@@ -1,1 +1,1 @@
-
+[![Atlassian Certified in Jira Essentials certificate_page-0001](https://github.com/user-attachments/assets/6cc3dd64-0461-4073-9e4a-ad55e5ea8f23)](https://cp.certmetrics.com/atlassian/en/public/badge/c?id=6132b9e36e5e1e0071f4416f&ccat=58&date=2024-2-17)
