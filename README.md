@@ -1,1 +1,1 @@
-[<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1ff426a2-4738-469a-ae92-2e86980e5b06" />](https://www.credly.com/badges/f71ca6c8-6093-4721-baf7-581e2073352e)
+[<img width="114" height="114" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/b2f0bd63-a8ec-465e-a678-7a8b30464405" />](https://www.credly.com/badges/f71ca6c8-6093-4721-baf7-581e2073352e)
