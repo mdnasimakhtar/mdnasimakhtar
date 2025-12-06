@@ -1,1 +1,1 @@
-[<img width="114" height="114" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/b2f0bd63-a8ec-465e-a678-7a8b30464405" />](https://www.credly.com/badges/f71ca6c8-6093-4721-baf7-581e2073352e)
+<[img width="120" height="120" alt="aws-certified-machine-learning-engineer-associate" src="https://github.com/user-attachments/assets/3ac1a9dc-decd-4811-afe9-9872e1dda3c2" />](https://www.credly.com/badges/d4f6e89d-b8e4-4383-a309-beca532b45b2)
